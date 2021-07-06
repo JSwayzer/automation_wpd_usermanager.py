@@ -1,0 +1,296 @@
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'ALAN ROGER GOMES BARBOSA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'ALAN ROGER GOMES BARBOSA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'ALEXANDRE DIB PARTEZANI
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'ALEXANDRE DIB PARTEZANI
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'AMANDA MONTEIRO DAS GRACAS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'AMANDA MONTEIRO DAS GRACAS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'AMANDA WICTKY FABRI
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'AMANDA WICTKY FABRI
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'ANNA CLARA ROCHA PLAWIAK
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'ANNA CLARA ROCHA PLAWIAK
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'APARECIDA ELIZABETH SUHETT MARIANO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'APARECIDA ELIZABETH SUHETT MARIANO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'BEATRIZ ROLIM MENDES BAPTISTA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'BEATRIZ ROLIM MENDES BAPTISTA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'BRUNA ACHAR SODERBERG CAMPOS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'BRUNA ACHAR SODERBERG CAMPOS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'BRUNO TIAGO CABRAL
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'BRUNO TIAGO CABRAL
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'CARLOS ALBERTO PAZ ROMAN
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'CARLOS ALBERTO PAZ ROMAN
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'CAROLINA HALFELD CLARK DOS REIS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'CAROLINA HALFELD CLARK DOS REIS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'CAROLINA REBEQUE BOTOSSI
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'CAROLINA REBEQUE BOTOSSI
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'CLAUDIA KETTER PINTO VIEIRA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'CLAUDIA KETTER PINTO VIEIRA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'CLAUDIO MAIA DE OLIVEIRA PENIDO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'CLAUDIO MAIA DE OLIVEIRA PENIDO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'CYNTIA MITIKO HONDA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'CYNTIA MITIKO HONDA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'DANILO FALCAO BRAGA CRUZ
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'DANILO FALCAO BRAGA CRUZ
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'DAVID HAMILTON CHO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'DAVID HAMILTON CHO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'FILIPE MACHADO BARCELOS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'FILIPE MACHADO BARCELOS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'FLAVIA FERNANDES MOREIRA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'FLAVIA FERNANDES MOREIRA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'GIDEAO MOSA NEVES
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'GIDEAO MOSA NEVES
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'GIOVANI MANHABUSQUI PACIFICO JUNIOR
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'GIOVANI MANHABUSQUI PACIFICO JUNIOR
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'GIULIA APARECIDA BONANSEA PASTORELLI
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'GIULIA APARECIDA BONANSEA PASTORELLI
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'GUSTAVO HENRIQUE BARBOZA NASCIMENTO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'GUSTAVO HENRIQUE BARBOZA NASCIMENTO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'HENRIQUE RIBEIRO RODRIGUES NETO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'HENRIQUE RIBEIRO RODRIGUES NETO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'HINGRYD EMMYLLY FERREIRA CUNHA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'HINGRYD EMMYLLY FERREIRA CUNHA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'HUGO OCTAVIANO DUARTE SANTOS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'HUGO OCTAVIANO DUARTE SANTOS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'HUGO SOARES DE ARAUJO NETO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'HUGO SOARES DE ARAUJO NETO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'INGRA NARDELI DOS SANTOS BORDON
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'INGRA NARDELI DOS SANTOS BORDON
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'ITAYANA TAMBELLINI CIPRO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'ITAYANA TAMBELLINI CIPRO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'JULIA BARRETO MESQUITA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'JULIA BARRETO MESQUITA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'KAREN MIDORI OTANI
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'KAREN MIDORI OTANI
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'LAIS COSTA MARQUES
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'LAIS COSTA MARQUES
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'LAIS MODESTO LIMA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'LAIS MODESTO LIMA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'LAIS SALDANHA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'LAIS SALDANHA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'LEONARDO SOUZA RIBEIRO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'LEONARDO SOUZA RIBEIRO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'LETICIA BECARI CAL DE SOUZA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'LETICIA BECARI CAL DE SOUZA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'LILA MORENA BUENO DA SILVA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'LILA MORENA BUENO DA SILVA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'LUCAS HENRIQUE PORFIRIO MOURA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'LUCAS HENRIQUE PORFIRIO MOURA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'LUIZ ADRIANO ESTEVES
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'LUIZ ADRIANO ESTEVES
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MABEL CRISTHINA RODRIGUES DA SILVEIRA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MABEL CRISTHINA RODRIGUES DA SILVEIRA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARCELO OLIVEIRA SOARES PESSANHA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARCELO OLIVEIRA SOARES PESSANHA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARIA AUXILIADORA CHOEZ RODRIGUEZ
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARIA AUXILIADORA CHOEZ RODRIGUEZ
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARIA CLARA DE ABREU AMARAL
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARIA CLARA DE ABREU AMARAL
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARIA DE NAZARE DOS SANTOS SIMAO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARIA DE NAZARE DOS SANTOS SIMAO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARIANA FIGUEIREDO NOGUEIRA SANTOS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARIANA FIGUEIREDO NOGUEIRA SANTOS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARIANA MIHAHIRA SAKUGAWA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARIANA MIHAHIRA SAKUGAWA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARIANA ROCHA FIGUEIREDO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARIANA ROCHA FIGUEIREDO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARINA DE FREITAS TONELOTTO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARINA DE FREITAS TONELOTTO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MARYCARLA DOS SANTOS MARCELINO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MARYCARLA DOS SANTOS MARCELINO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MATHEUS DANTAS GOMES GONCALVES
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MATHEUS DANTAS GOMES GONCALVES
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MATHEUS SANTOS RODRIGUES SILVA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MATHEUS SANTOS RODRIGUES SILVA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'MAURO SHIGUEHARU OIDE JUNIOR
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'MAURO SHIGUEHARU OIDE JUNIOR
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'NATALIA XAVIER SANTANNA DE ANDRADE
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'NATALIA XAVIER SANTANNA DE ANDRADE
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'NAYARA FIRMINO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'NAYARA FIRMINO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'PAOLO HENRIQUE BARBANOGO LOURENCO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'PAOLO HENRIQUE BARBANOGO LOURENCO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'PAULA REGINA BORBA DE GIMENEZ
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'PAULA REGINA BORBA DE GIMENEZ
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'PEDRO HENRIQUE SILVA ATERJE
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'PEDRO HENRIQUE SILVA ATERJE
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'PRISCILA PRATA CURSI
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'PRISCILA PRATA CURSI
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'RAFAEL BERNHART CARRA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'RAFAEL BERNHART CARRA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'RAFFAELLA BARBOSA TELES MACHADO
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'RAFFAELLA BARBOSA TELES MACHADO
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'RENAN BRIGANTE ATHAYDE
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'RENAN BRIGANTE ATHAYDE
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'RENE DE ARAUJO GLEIZER
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'RENE DE ARAUJO GLEIZER
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'RICARDO OSCAR SANTOS BARBOSA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'RICARDO OSCAR SANTOS BARBOSA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'ROBERTA PAIXAO GROSS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'ROBERTA PAIXAO GROSS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'RODRIGO VILLAR DE ANDRADE
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'RODRIGO VILLAR DE ANDRADE
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'SARA MIRANDA MONTANO DE LAURENTYS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'SARA MIRANDA MONTANO DE LAURENTYS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'SIDNEY CAPPS FERNANDES
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'SIDNEY CAPPS FERNANDES
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'SUSI SAYURI NISHITSUKA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'SUSI SAYURI NISHITSUKA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'THALES FELIPE DOS SANTOS PEREIRA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'THALES FELIPE DOS SANTOS PEREIRA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'VANESSA MARTINS DE FREITAS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'VANESSA MARTINS DE FREITAS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'VERONICA DE SOUZA SANTOS
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'VERONICA DE SOUZA SANTOS
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'VIVIANE GALLI DIB
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'VIVIANE GALLI DIB
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'WALTER NELSON CARTAGENA MIRANDA
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'WALTER NELSON CARTAGENA MIRANDA
+';
+update faprocad x set x.inativo = 'N' where x.nome_pro = 'YASMIN DIZ Y GIL CORBI
+';
+update fausucad x set x.ind_usuario_ativo = 'S', sn_usu_bloqueado = 'N' where x.nome = 'YASMIN DIZ Y GIL CORBI
+';

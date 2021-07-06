@@ -1,0 +1,30 @@
+select x.ind_usuario_ativo,
+	 sn_usu_bloqueado,
+	 x.matricula,
+	 x.apelido,
+	 x.nome, 
+	x.cod_pro,
+	 x.cpf,
+	 x.dh_nascimento
+ from fausucad x
+ where ( x.nome in ('BEATRIZ DE CAMARGO PRETO PISCOPO',
+	'BEATRIZ DE CAMARGO PRETO PISCOPO'
+	)
+ or x.apelido in ('CRM184293',
+	'CRM184293'
+	)
+ or x.matricula in ('184293',
+	'184293'
+	)
+ or x.cpf in ('41794872841',
+	'41794872841'
+	)
+ or x.cod_pro in ('081527',
+	'081527'
+	))
+ and x.dh_nascimento in (To_Date('21/02/1993', 'DD/MM/YYYY'),
+	To_Date('21/02/1993', 'DD/MM/YYYY')
+	);    or t1.apelido in ('CRM184293','CRM184293'
+)    or t1.matricula in ('184293','184293'
+)    or x.cod_pro in ('081527','081527'
+))

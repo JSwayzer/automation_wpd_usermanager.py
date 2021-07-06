@@ -1,0 +1,8 @@
+update faprocad x set x.inativo = 'S' where x.nome_pro = 'ALESSANDRA JOSLIN OLIVEIRA
+';
+update fausucad x set x.ind_usuario_ativo = 'N', sn_usu_bloqueado = 'S' where x.nome = 'ALESSANDRA JOSLIN OLIVEIRA
+';
+update faprocad x set x.inativo = 'S' where x.nome_pro = 'YURI GONCALVES MADURO
+';
+update fausucad x set x.ind_usuario_ativo = 'N', sn_usu_bloqueado = 'S' where x.nome = 'YURI GONCALVES MADURO
+';

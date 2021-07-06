@@ -1,0 +1,4 @@
+update fausucad x set x.ind_usuario_ativo = 'N', sn_usu_bloqueado = 'S' where x.nome = 'ALESSANDRA JOSLIN OLIVEIRA
+';
+update fausucad x set x.ind_usuario_ativo = 'N', sn_usu_bloqueado = 'S' where x.nome = 'YURI GONCALVES MADURO
+';
