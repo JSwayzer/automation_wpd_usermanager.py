@@ -169,3 +169,10 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,python
+
+checar_usuario.txt
+usuarios.txt
+insert_fathos.txt
+insert_medview.txt
+reativar_usuario.txt
+inativar_usuario.txt
