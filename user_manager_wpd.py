@@ -53,7 +53,7 @@ while op != 0:
                     linha = x.split('	')
                     nome = strip_accents(linha[1])
                     createFile.write("'" + nome + "',")
-                createFile.write("'" + nome + "')")
+                createFile.write("'" + nome + "')\n")
 
         # CPF
         with open("usuarios.txt", "r") as readFile:
