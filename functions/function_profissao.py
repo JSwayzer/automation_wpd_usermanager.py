@@ -33,7 +33,8 @@ def profissao(prof):
             or pro(prof, "APRENDIZ") == "APRENDIZ" \
             or pro(prof, "ESTAGIARIO") == "ESTAGIARIO" \
             or pro(prof, "SEGURANCA") == "SEGURANCA" \
-            or pro(prof, "LIDER DE HIGIEN") == "LIDER DE HIGIEN":
+            or pro(prof, "LIDER DE HIGIEN") == "LIDER DE HIGIEN" \
+            or pro(prof, "LIDER DE ATEND") == "LIDER DE ATEND":
         return "ADMN"
 
     elif pro(prof, "ALMOXARIFE") == "ALMOXARIFE":

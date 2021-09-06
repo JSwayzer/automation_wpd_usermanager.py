@@ -57,6 +57,7 @@ def tipoconselho(tcon):
 
     elif pro(tcon, "ADMINISTRATIVO") == "ADMINISTRATIVO" \
             or pro(tcon, "INFORMATICA") == "INFORMATICA" \
+            or pro(tcon, "ATEND") == "ATEND" \
             or pro(tcon, "ANALISTA DE SUPORTE") == "ANALISTA DE SUPORTE" \
             or pro(tcon, "ANALISTA DE SISTEMAS") == "ANALISTA DE SISTEMAS" \
             or pro(tcon, "AUXILIAR DE FARMACIA") == "AUXILIAR DE FARMACIA" \

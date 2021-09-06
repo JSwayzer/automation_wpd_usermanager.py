@@ -1,7 +1,7 @@
 import re
 import unicodedata
 import unidecode
-
+'''
 x = 'Âlàn Roger Gomes Barbosa'
 t = re.sub(r'a', 'b', 'banana')
 y = re.sub(r'à', 'A', x)
@@ -41,3 +41,19 @@ accented_string = u'Málaga'
 unaccented_string = unidecode.unidecode(accented_string)
 # unaccented_string contains 'Malaga'and is of type 'str'
 print(accented_string)
+
+'''
+
+with open("usuarios.txt", "r", encoding="utf8") as readFile:  # ler arquivo fonte dos dados
+    with open("checar_usuario.txt", "w", encoding="utf8") as createFile:  # criar o arquivo que armazenará as novas informações já tratadas
+        createFile.write(" where t1.nome in (")
+        print("where t1.nome in (")
+
+        # escrever nome:
+        for x in readFile:  # loop para ler linha por linha para manipulação
+            nome = x.upper()
+            # nome = strip_accents(x)
+            createFile.write("'"+nome+"',")
+            print("'"+nome+"',", end=" ")
+            # exit()
+        createFile.write("'"+nome+"')")

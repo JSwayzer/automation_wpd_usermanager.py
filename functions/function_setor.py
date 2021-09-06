@@ -7,44 +7,43 @@ def pro(string, pattern):
         return result.group()
 
 
-# Categoria: select * from mvcatcad
-# select cod_categ,descricao,nome_conselho_regi,sigla_conselho_reg from mvcatcad order by descricao
-# COD_CATEG,DESCRICAO,NOME_CONSELHO_REGI,SIGLA_CONSELHO_REG
-def setor(set):
+# Setor: select cod_set, descricao from fasetcad where descricao not like '%BLOQUEADO%' order by cod_set
+def setor(stor):
     # Medicos: #################
-    if pro(set, "ALMOXARIFADO") == "ALMOXARIFADO":
+    if pro(stor, "ALMOXARIFADO") == "ALMOXARIFADO":
         return "0001"
     ############################
 
     # Enfermagem: ##############
-    elif pro(set, "FARMACIA") == "FARMACIA":
-        if pro(set, "FARMACIA 3") == "FARMACIA 3":
+    elif pro(stor, "FARMACIA") == "FARMACIA":
+        if pro(stor, "FARMACIA 3") == "FARMACIA 3":
             return "0301"
 
-        elif pro(set, "FARMACIA ANEXA 1") == "FARMACIA ANEXA 1":
+        elif pro(stor, "FARMACIA ANEXA 1") == "FARMACIA ANEXA 1":
             return "0324"
 
-        elif pro(set, "FARMACIA ANEXA TERREO") == "FARMACIA ANEXA TERREO":
+        elif pro(stor, "FARMACIA ANEXA TERREO") == "FARMACIA ANEXA TERREO":
             return "0323"
 
-        elif pro(set, "FARMACIA CENTRAL") == "FARMACIA CENTRAL":
+        elif pro(stor, "FARMACIA CENTRAL") == "FARMACIA CENTRAL":
             return "0014"
 
-        elif pro(set, "FARMACIA CENTRO CIRURGICO") == "FARMACIA CENTRO CIRURGICO":
+        elif pro(stor, "FARMACIA CENTRO CIRURGICO") == "FARMACIA CENTRO CIRURGICO":
             return "0027"
 
-        elif pro(set, "FARMACIA DOSE UNITARIA") == "FARMACIA DOSE UNITARIA":
+        elif pro(stor, "FARMACIA DOSE UNITARIA") == "FARMACIA DOSE UNITARIA":
             return "0319"
 
-        elif pro(set, "FARMACIA MEDICACAO ADULTO") == "FARMACIA MEDICACAO ADULTO":
+        elif pro(stor, "FARMACIA MEDICACAO ADULTO") == "FARMACIA MEDICACAO ADULTO":
             return "0309"
 
-        elif pro(set, "FARMACIA PRONTO SOCORRO") == "FARMACIA PRONTO SOCORRO":
+        elif pro(stor, "FARMACIA PRONTO SOCORRO") == "FARMACIA PRONTO SOCORRO":
             return "0309"
 
         else:
             return "0014"
     ############################
 
-    elif pro(set, "ADMINISTRATIVO") == "ADMINISTRATIVO":
+    elif pro(stor, "ADMINISTRATIVO") == "ADMINISTRATIVO":
         return "MDV MEDA REC ADM POS APOIO URG APOIO"
+
