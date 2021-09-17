@@ -13,9 +13,9 @@ select t1.ind_usuario_ativo as ativo_medview,
        t2.data_nascimento as dt_fathos
   from fausucad t1
  inner join faprocad t2 on t2.cod_pro = t1.cod_pro
- where t1.nome      in ('PROF - ANA KOBER NOGUEIRA LEIRA','PROF - ANA KOBER NOGUEIRA LEIRA')
-    or t1.cpf       in ('35166437810','35166437810')
-    or t2.crm       in ('140917','140917')
-    or t1.apelido   in ('140917','140917')
-    or t1.matricula in ('140917','140917')
-    or t2.cod_pro   in ('081823','081823');
+ where t1.nome      in ('PAOLA ALEJANDRA QUISBERT MEDINA','PAOLA ALEJANDRA QUISBERT MEDINA')
+    or t1.cpf       in ('07219515111','07219515111')
+    or t2.crm       in ('188289','188289')
+    or t1.apelido   in ('CRM188289','CRM188289')
+    or t1.matricula in ('188289','188289')
+    or t2.cod_pro   in ('081834','081834');

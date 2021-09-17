@@ -48,7 +48,8 @@ def categoria(cat):
             or pro(cat, "LIDER DE HIGIEN") == "LIDER DE HIGIEN" \
             or pro(cat, "LIDER DE ATEND") == "LIDER DE ATEND" \
             or pro(cat, "TECNICO DE RADIOLOGIA") == "TECNICO DE RADIOLOGIA" \
-            or pro(cat, "TECNICO DE RAIO") == "TECNICO DE RAIO":
+            or pro(cat, "TECNICO DE RAIO") == "TECNICO DE RAIO"\
+            or pro(cat, "ATENDIMENTO") == "ATENDIMENTO":
         return "ADM"
 
     elif pro(cat, "ASSISTENTE SOCIAL") == "ASSISTENTE SOCIAL":

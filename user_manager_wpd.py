@@ -138,7 +138,7 @@ while op != 0:
                     codCategoria = categoria(linha[3])
                     print("Categoria: ", codCategoria)
                     # Chamar função para definir o Tipo de Conselho Regional
-                    codConselho = tipoconselho(linha[3])
+                    codConselho = tipoconselho(linha[3])  #
                     print("Conselho: ", codConselho)
                     if codProfissao == "MEDC":
                         # Chamar função para definir o Grupo Medico
@@ -169,7 +169,8 @@ while op != 0:
                                      "NULL,'IAUE','" + codConselho + "',NULL,NULL,NULL,885459,NULL);\n")
                     if codProfissao == "MEDC":
                         # Chamar função para definir o Especialidade Médica
-                        espMedica = especialidade(linha[14])  # print(espMedica)
+                        espMedica = especialidade(linha[14])
+                        print("Especialidade:", espMedica)
                         espinsert = ("INSERT INTO FAESPPRO (COD_PRO, COD_ESP, SN_PRINCIPAL) VALUES "
                                      "('" + linha[10] + "','" + espMedica + "','S');\n")  # print(espinsert)
                         createFile.write(espinsert)

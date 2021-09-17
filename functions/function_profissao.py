@@ -20,7 +20,8 @@ def profissao(prof):
     elif pro(prof, "TECNICO DE ENFERMAGEM") == "TECNICO DE ENFERMAGEM":
         return "TECE"
 
-    elif pro(prof, "ENFERMEIRO") == "ENFERMEIRO":
+    elif pro(prof, "ENFERMEIRO") == "ENFERMEIRO" \
+            or pro(prof, "ENF") == "ENF":
         return "ENFR"
 
     elif pro(prof, "ADMINISTRATIVO") == "ADMINISTRATIVO" \
@@ -34,7 +35,8 @@ def profissao(prof):
             or pro(prof, "ESTAGIARIO") == "ESTAGIARIO" \
             or pro(prof, "SEGURANCA") == "SEGURANCA" \
             or pro(prof, "LIDER DE HIGIEN") == "LIDER DE HIGIEN" \
-            or pro(prof, "LIDER DE ATEND") == "LIDER DE ATEND":
+            or pro(prof, "LIDER DE ATEND") == "LIDER DE ATEND" \
+            or pro(prof, "ATENDIMENTO") == "ATENDIMENTO":
         return "ADMN"
 
     elif pro(prof, "ALMOXARIFE") == "ALMOXARIFE":

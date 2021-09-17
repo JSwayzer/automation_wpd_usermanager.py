@@ -1,1 +1,1 @@
-140917	PROF - Ana Kober Nogueira Leira	02/09/2021	Medico Preceptor	140917	Cirurgia Geral	26/03/1986	35166437810	0	0	081823	SP	140917	01/12/2021	Cirurgia Geral	PJ	Cirurgia Geral	Medico Preceptor
+188289	Paola Alejandra Quisbert Medina	17/09/2021	Medico Residente	188289	Pediatria	18/03/1989	07219515111	0	0	081834	SP	CRM188289	16/12/2021	CLINICA MEDICA	PJ	CLINICA MEDICA	Medico Residente

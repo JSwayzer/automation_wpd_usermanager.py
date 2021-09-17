@@ -40,7 +40,7 @@ def atribuicaogrupo(atr):
 
     elif pro(atr, "RECEPCAO") == "RECEPCAO" \
             or pro(atr, "ATEND") == "ATEND":
-        return "DIA AGEND MDV MEDA POS BAS REC AMD URG PS02 VIS PORTA"
+        return "DIA AGEND MDV MEDA POS BAS REC ADM URG PS02 VIS PORTA"
 
     elif pro(atr, "ASSISTENTE SOCIAL") == "ASSISTENTE SOCIAL":
         return "MDV ASS POS APOIO"
